@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sh200403.github.io/ai-efficiency-tools-guide/sitemap.xml
+Sitemap: https://www.aiworktools.xyz/sitemap.xml
